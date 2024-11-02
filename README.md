@@ -42,9 +42,9 @@ conda activate tf ```
 
 ## Tech Stack
 
-**Client:** React, Vite, TailwindCSS
+**Client:** Will be Decided
 
-**Server:** Node, Express,
+**Server:** Will be Decided
 
 
 ## Running Tests
