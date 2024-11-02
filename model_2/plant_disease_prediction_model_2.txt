@@ -1,0 +1,2 @@
+plant_disease_prediction_model_2.keras link
+will be updated soon
