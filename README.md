@@ -42,9 +42,9 @@ conda activate tf ```
 
 ## Tech Stack
 
-**Client:** Will be Decided
+**Client:** Streamlit,HTML,CSS
 
-**Server:** Will be Decided
+**Server:** Python,Tensorflow,scikit-learn,numpy,pandas,matplotlib
 
 
 ## Running Tests
