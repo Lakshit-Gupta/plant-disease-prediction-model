@@ -1,2 +1,0 @@
-plant_disease_prediction_model_2.keras link
-https://drive.google.com/file/d/1eAAlSYZ_kPX1_Ih2iFoJAqXzXHkmHa9W/view
