@@ -35,8 +35,11 @@ conda env create -f tf.yaml ```
 ```bash
 conda activate tf ```
 ```
-
-
+## How to run the Application
+Open the main_app.py and run the followind command in the Terminal
+```bash
+python -m streamlit run main_app.py  ```
+``` 
 
 
 
