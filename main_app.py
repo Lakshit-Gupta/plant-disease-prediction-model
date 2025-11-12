@@ -25,7 +25,7 @@ st.header('Please upload an image to check if your plant has a disease.')
 file = st.file_uploader('Upload an image', type=['jpeg', 'jpg', 'png'])
 
 # Load the model and class indices (from JSON)
-model = load_model('plant_disease_prediction_model_1_test.keras')
+model = load_model('plant_disease_prediction_model_1.keras') #CHANGED THE LAST DIGIT AS YOU WANT TO CHOOSE THE MODEL
 with open('class_indices.json') as f:
     class_indices = json.load(f)
 
@@ -82,3 +82,4 @@ if file is not None:
                     <pre style="color: white;">{confidence_str}</pre>
                 </div>
             """, unsafe_allow_html=True)
+
